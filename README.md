@@ -1,3 +1,3 @@
 # AgentForgeDemoApp
 
-Auto-generated story stubs.
+Auto-generated story implementations.
